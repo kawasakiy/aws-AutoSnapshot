@@ -7,7 +7,7 @@ Key = AutoSnapshot
 Value = Generaton Number  
 
 ###Example : 1week  
-Rate(1 day)  
+Trigger : Rate(1 day)  
 Key : AutoSnapshot  
 Value : 7
 
