@@ -9,16 +9,16 @@ Value = Generaton Number
 
 ##IAM
 {  
-   "Version": "2012-10-17",  "Statement": [  
-        {
-            "Effect": "Allow",
-            "Action": [
-                "ec2:Describe*",
-                "ec2:CreateSnapshot",
-                "ec2:DescribeSnapshots",
-                "ec2:DeleteSnapshot",
-                "ec2:CreateTags"
-            ],
+    "Version": "2012-10-17",  "Statement": [  
+        {  
+            "Effect": "Allow",  
+            "Action": [  
+                "ec2:Describe*",  
+                "ec2:CreateSnapshot",  
+                "ec2:DescribeSnapshots",  
+                "ec2:DeleteSnapshot",  
+                "ec2:CreateTags"  
+            ],  
             "Resource": "*"
         },
         {
