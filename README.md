@@ -1,4 +1,4 @@
-# Lambda - EC2 - AutoSnapshot
+# AWS Lambda - EC2 - AutoSnapshot
 
 ## Python
 
