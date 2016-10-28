@@ -3,13 +3,10 @@
 ## Python
 
 ##EC2 Tag
-Key = AutoSnapshot
-Value = Generaton
+Key = AutoSnapshot  Value = Generaton
 
 ##IAM
-{
-    "Version": "2012-10-17",
-    "Statement": [
+{  "Version": "2012-10-17",  "Statement": [
         {
             "Effect": "Allow",
             "Action": [
