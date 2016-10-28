@@ -1,13 +1,12 @@
 # Lambda - EC2 - AutoSnapshot
 
-Python
+## Python
 
-*EC2 Tag*
+##EC2 Tag
 Key = AutoSnapshot
 Value = Generaton
 
-*IAM*
-`
+##IAM
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -42,4 +41,4 @@ Value = Generaton
             "Resource": "*"
         }
     ]
-}`
+}
