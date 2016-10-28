@@ -4,7 +4,12 @@
 
 ##EC2 Tag
 Key = AutoSnapshot  
-Value = Generaton Number
+Value = Generaton Number  
+
+Example(1 week)  
+Rate(1 day)  
+Key : AutoSnapshot  
+Value : 7
 
 ##IAM
     {  
