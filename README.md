@@ -5,7 +5,7 @@
 ##EC2 Tag
 Key = AutoSnapshot
 
-Value = Generaton
+Value = Generaton Number
 
 ##IAM
 {  "Version": "2012-10-17",  "Statement": [
