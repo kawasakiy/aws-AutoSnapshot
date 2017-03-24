@@ -2,16 +2,16 @@
 
 ## Python
 
-##EC2 Tag
+## EC2 Tag
 Key = AutoSnapshot  
 Value = Generaton Number  
 
-###Example : 1week  
+### Example : 1week  
 Trigger : Rate(1 day)  
 Key : AutoSnapshot  
 Value : 7
 
-##IAM
+## IAM
     {  
         "Version": "2012-10-17",  "Statement": [  
             {  
